@@ -31,5 +31,6 @@ class WidgetItems : GlanceAppWidget() {
         Text(
             text = "Hello Android"
         )
+        //You can add your implementation here
     }
 }
